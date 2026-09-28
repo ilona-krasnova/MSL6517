@@ -16,12 +16,12 @@ Prof. Zoë Renaudie
 
 ## « Entrée des objets » fait partie des procédures primaires de la norme Spectrum.
 <!-- 
-21 procédures, dont 9 sont primaires et nécessaires pour une accréditation.
+21 procédures, dont 9 sont primaires et nécessaires pour devenir une institution agréée.
 Cette distinction n'est pas explicite sur la version française du site... -->
 
 ---
 ## Définition
-« _Consignation_ <!-- traduction intéressante; ici veut dire de mettre par écrit dans un document officiel ; enregistrer --> de tous les objets qui vois sont confiés pour quelque raison que ce soit, y compris les emprunts, les demandes de renseignements et les aquisitions potentielles »
+« _Consignation_ <!-- traduction intéressante; ici veut dire de mettre par écrit dans un document officiel ; noter --> de tous les objets qui vous sont confiés pour quelque raison que ce soit, y compris les emprunts, les demandes de renseignements et les aquisitions potentielles »
 <!-- Peu importe la raison d'arrivée de l'objet, l'objectif est de créer une trace fiable, de protéger l'objet et de définir les responsabilités du le musée et du propriétaire à l'amont. -->
 ---
 ## Prérequis
@@ -84,3 +84,4 @@ avec le le numéro d'identification
 <!-- pour avoir une trace de tout objet qui a été confié à l'institution -->
 * une copie remise au dépositaire
 <!-- qu'il soit le propriétaire ou non -->
+<!-- la norme suggère de ce faire sur du papier 3 copies blanc rose jaune, mais au QC, la Loi concernant le cadre juridique des technologies de l'information reconnait les documents nés numériques comme ayant la même valeur juridique que le papier (à la condition que c'est possible d'assurer son intégrité) -->
